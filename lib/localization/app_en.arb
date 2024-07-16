@@ -1,0 +1,272 @@
+{
+  "language": "English",
+  "@language": {
+    "description": "The current language"
+  },
+  "title": "Diabeater",
+  "@title": {
+    "description": "The title of the application"
+  },
+  "login": " LOGIN ",
+  "@login": {
+    "description": "Text for the login button"
+  },
+  "signup": "SIGN UP",
+  "@signup": {
+    "description": "Text for the sign up button"
+  },
+  "welcome": "Welcome",
+  "@welcome": {
+    "description": "Welcome message"
+  },
+  "change_background": "change background picture",
+  "@change_background": {
+    "description": "change background picture"
+  },
+  "change_profile": "change profile picture",
+  "@change_profile": {
+    "description": "change profile picture"
+  },
+  "logout": "logout",
+  "@logout": {
+    "description": "logout"
+  },
+  "mentee_management": "mentee management",
+  "@mentee_management": {
+    "description": "mentee management"
+  },
+  "mentor_management": "mentor management",
+  "@mentor_management": {
+    "description": "mentor management"
+  },
+  "unmentored_petients": "unmentored petients",
+  "@unmentored_petients": {
+    "description": "unmentored petients"
+  },
+  "camera": "camera",
+  "@camera": {
+    "description": "camera"
+  },
+  "pick_gallery": "pick from gallery",
+  "@pick_gallery": {
+    "description": "pick from gallery"
+  },
+  "error": "Error = {error_message}",
+  "@error": {
+    "description": "error",
+    "placeholders": {
+      "error_message": {
+        "type": "String"
+      }
+    }
+  },
+  "error_occurred": "An error occurred, enter the page again",
+  "@error_occurred": {
+    "description": "An error occurred, enter the page again"
+  },
+  "add": "Add",
+  "@add": {
+    "description": "Add"
+  },
+  "general_error": "an error occurred",
+  "@general_error": {
+    "description": "an error occurred"
+  },
+  "verify_email": "verify email",
+  "@verify_email": {
+    "description": "verify email"
+  },
+  "verification_sent": "a verification email has been sent to your email",
+  "@verification_sent": {
+    "description": "a verification email has been sent to your email"
+  },
+  "resend_email": "Resend Email",
+  "@resend_email": {
+    "description": "Resend Email"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel"
+  },
+  "register_with_email": "Register with your Email:",
+  "@register_with_email": {
+    "description": "Register with your Email:"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "OK"
+  },
+  "already_have": "Already have an account?",
+  "@already_have": {
+    "description": "Already have an account?"
+  },
+  "connect": "sign in",
+  "@connect": {
+    "description": "sign in"
+  },
+  "signin_with_email": "Sign in with your Email:",
+  "@signin_with_email": {
+    "description": "Sign in with your Email:"
+  },
+  "dont_have_account": "Don't have an account?",
+  "@dont_have_account": {
+    "description": "Don't have an account?"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings"
+  },
+  "todays_goals": "Goals for today:",
+  "@todays_goals": {
+    "description": "Goals for today:"
+  },
+  "todays_goals2": "Today's goals:",
+  "@todays_goals2": {
+    "description": "Today's goals:"
+  },
+  "add_goal": "Add a goal:",
+  "@add_goal": {
+    "description": "Add a goal:"
+  },
+  "delete_goal_confirm": "are you sure you would like to delete this goal?",
+  "@delete_goal_confirm": {
+    "description": "are you sure you would like to delete this goal?"
+  },
+  "yes": "Yes",
+  "@yes": {
+    "description": "Yes"
+  },
+  "no": "No",
+  "@no": {
+    "description": "No"
+  },
+  "user_goals": "User Goals",
+  "@user_goals": {
+    "description": "User Goals"
+  },
+  "user_contact_info": "User Contact Info",
+  "@user_contact_info": {
+    "description": "User Contact Info"
+  },
+  "email": "email: = {user_mail}",
+  "@email": {
+    "description": "email",
+    "placeholders": {
+      "user_mail": {
+        "type": "String"
+      }
+    }
+  },
+  "phone": "phone: = {user_phone}",
+  "@phone": {
+    "description": "phone",
+    "placeholders": {
+      "user_phone": {
+        "type": "String"
+      }
+    }
+  },
+  "whatsapp": "Message via whatsapp",
+  "@whatsapp": {
+    "description": "Message via whatsapp"
+  },
+  "remove_mentee": "remove_mentee",
+  "@remove_mentee": {
+    "description": "remove_mentee"
+  },
+  "remove_mentee_confirm": "Are you sure you would like to remove: = {user_name}?",
+  "@remove_mentee_confirm": {
+    "description": "remove_mentee_confirm",
+    "placeholders": {
+      "user_name": {
+        "type": "String"
+      }
+    }
+  },
+  "try_again": "Try again",
+  "@try_again": {
+    "description": "Try again"
+  },
+  "success": "Success",
+  "@success": {
+    "description": "Success"
+  },
+  "mentors": "Mentors",
+  "@mentors": {
+    "description": "Mentors"
+  },
+  "no_mentors_in_app": "The Application has no mentors",
+  "@no_mentors_in_app": {
+    "description": "The Application has no mentors"
+  },
+  "more_info": "More info",
+  "@more_info": {
+    "description": "More info"
+  },
+  "give_admin": "Give admin privilege",
+  "@give_admin": {
+    "description": "Give admin privilege"
+  },
+  "give_admin_confirm": "Are you sure you would like to promote {user_name} to admin?",
+  "@give_admin_confirm": {
+    "description": "give_admin_confirm",
+    "placeholders": {
+      "user_name": {
+        "type": "String"
+      }
+    }
+  },
+  "unmentored_users": "Users without Mentors",
+  "@unmentored_users": {
+    "description": "Users without Mentors"
+  },
+  "no_unmentored_users": "There are no patients without mentor",
+  "@no_unmentored_users": {
+    "description": "There are no patients without mentor"
+  },
+  "give_mentor": "Give mentor privilege",
+  "@give_mentor": {
+    "description": "Give mentor privilege"
+  },
+  "give_mentor_confirm": "Are you sure you would like to promote {user_name} to mentor?",
+  "@give_mentor_confirm": {
+    "description": "give_mentor_confirm",
+    "placeholders": {
+      "user_name": {
+        "type": "String"
+      }
+    }
+  },
+  "your_mentors": "Your mentors",
+  "@your_mentors": {
+    "description": "Your mentors"
+  },
+  "you_have_no_mentors": "You have no mentors Yet",
+  "@you_have_no_mentors": {
+    "description": "You have no mentors Yet"
+  },
+  "your_mentees": "Your mentees",
+  "@your_mentees": {
+    "description": "Your mentees"
+  },
+  "you_have_no_mentees": "You have no mentees Yet",
+  "@you_have_no_mentees": {
+    "description": "You have no mentees Yet"
+  },
+  "add_mentee": "Add new mentee",
+  "@add_mentee": {
+    "description": "Add new mentee"
+  },
+  "enter_phone": "Enter Phone number",
+  "@enter_phone": {
+    "description": "Enter Phone number"
+  },
+  "enter_email": "Enter Email address",
+  "@enter_email": {
+    "description": "Enter Email address"
+  },
+  "mentee_added": "The mentee added",
+  "@mentee_added": {
+    "description": "The mentee added"
+  }
+}
